@@ -98,7 +98,7 @@
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="www.linkedin.com/in/sebastian-jose-13492a23b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/yourusername">
@@ -111,7 +111,7 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sebastianx0808&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <!-- Footer -->
