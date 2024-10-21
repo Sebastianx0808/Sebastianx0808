@@ -1,10 +1,19 @@
 
 
 <!-- Introduction with Typing Effect -->
-<h1 align="center">
-  Hi there, I'm Sebastian Jose 👋
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Aspiring+Data+Scientist" alt="Typing SVG" />
-</h1>
+<!-- Animated Welcome -->
+<div align="center">
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&duration=3000&pause=2000&color=2F81F7&center=true&width=550&lines=Hi+there%2C+I'm+Sebastian+Jose+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </h1>
+</div>
+
+
+
+<!-- Professional Title Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;Problem+Solver+%F0%9F%92%A1;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
