@@ -3,7 +3,7 @@
 <!-- Introduction with Typing Effect -->
 <h1 align="center">
   Hi there, I'm Sebastian Jose 👋
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Aspiring+Data+Scientist" alt="Typing SVG" />
 </h1>
 
 <!-- About Me Section -->
@@ -14,7 +14,6 @@
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Data Analysis using python**
 - 📫 How to reach me: **sebastianjose12.m@gmail.com**
-- ⚡ Fun fact: **[Interesting Fact About You]**
 
 <!-- Tech Stack Section -->
 ## 🚀 Tech Stack
@@ -94,20 +93,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sebastianx0808&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- Connect with Me Section -->
-## 🤝 Connect with Me
 
-<p align="center">
-  <a href="www.linkedin.com/in/sebastian-jose-13492a23b">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://dev.to/yourusername">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a>
-</p>
 
 <!-- Profile Views Counter -->
 <p align="center">
