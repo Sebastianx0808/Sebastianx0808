@@ -91,9 +91,81 @@
 <!-- Featured Projects Section -->
 ## 🌟 Featured Projects
 
+### 🌐 Web Applications
+<p align="center">
+  <a href="https://github.com/Sebastianx0808/ExpressiveAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=ExpressiveAI&theme=radical" alt="ExpressiveAI" />
+  </a>
+  <a href="https://github.com/Sebastianx0808/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=portfolio&theme=radical" alt="Portfolio Website" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sebastianx0808/albert_francis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=albert_francis&theme=radical" alt="Albert Francis" />
+  </a>
+  <a href="https://github.com/Sebastianx0808/attendance-pwa">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=attendance-pwa&theme=radical" alt="Attendance PWA" />
+  </a>
+</p>
+
+### 🤖 AI & Chatbots
+<p align="center">
+  <a href="https://github.com/Sebastianx0808/Solace_Space">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=Solace_Space&theme=radical" alt="Solace Space - Mental Health Chatbot" />
+  </a>
+  <a href="https://github.com/Sebastianx0808/Daksh-2025_Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=Daksh-2025_Chatbot&theme=radical" alt="Daksh University Chatbot" />
+  </a>
+</p>
+
+### 📱 Mobile & Desktop Applications
+<p align="center">
+  <a href="https://github.com/Sebastianx0808/WaterWise">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=WaterWise&theme=radical" alt="WaterWise - Android App" />
+  </a>
+  <a href="https://github.com/Sebastianx0808/smart-pos">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=smart-pos&theme=radical" alt="Smart POS System" />
+  </a>
+</p>
+
+### 💰 FinTech & Data Science
 <p align="center">
   <a href="https://github.com/Sebastianx0808/fin_calc">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=fin_calc&theme=radical" alt="Financial Calculator" />
+  </a>
+  <a href="https://github.com/Sebastianx0808/SyncSavr">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=SyncSavr&theme=radical" alt="SyncSavr" />
+  </a>
+</p>
+
+### 🌍 Travel & Lifestyle
+<p align="center">
+  <a href="https://github.com/Sebastianx0808/Travelopedia">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=Travelopedia&theme=radical" alt="Travelopedia" />
+  </a>
+  <a href="https://github.com/Sebastianx0808/TalentExpo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sebastianx0808&repo=TalentExpo&theme=radical" alt="TalentExpo" />
+  </a>
+</p>
+
+### 🔗 Quick Links to Live Demos
+<p align="center">
+  <a href="https://expressive-ai.vercel.app">
+    <img src="https://img.shields.io/badge/🎨_ExpressiveAI-Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="ExpressiveAI Demo" />
+  </a>
+  <a href="https://sebastian-jose.vercel.app">
+    <img src="https://img.shields.io/badge/👨‍💻_Portfolio-Live_Site-4ECDC4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Demo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://albert-francis.vercel.app">
+    <img src="https://img.shields.io/badge/🎯_Albert_Francis-Live_Demo-45B7D1?style=for-the-badge&logo=vercel&logoColor=white" alt="Albert Francis Demo" />
+  </a>
+  <a href="https://attendance-pwa-gray.vercel.app">
+    <img src="https://img.shields.io/badge/📊_Attendance_PWA-Live_Demo-96CEB4?style=for-the-badge&logo=vercel&logoColor=white" alt="Attendance PWA Demo" />
   </a>
 </p>
 
